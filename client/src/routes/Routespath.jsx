@@ -1,6 +1,6 @@
 import React, {lazy} from "react";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import Roots from "../components/roots";
+import Roots from "../components/Roots"
 import Spinner from "../utils/Spinner";
 import Account from "../pages/Account";
 import SearchResult from "../pages/SearchResult";
